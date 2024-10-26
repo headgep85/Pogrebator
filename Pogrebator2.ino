@@ -16,9 +16,9 @@ int temp_pogreb;
 OneWire oneWire(ONE_WIRE_BUS);
 DallasTemperature sensors(&oneWire);
 
-char auth[] = "b039d9d553334cb6b5a1613c4bc95b86";
-char ssid[] = "headwork";
-char pass[] = "Sjd893kd777";
+char auth[] = "tokken";
+char ssid[] = "You'r Wi-fi";
+char pass[] = "You'r pwd";
 
 
 void setup() 
